@@ -1,7 +1,7 @@
 # Hi, I'm Paulo!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PauloFrey)](https://github.com/PauloFrey)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz/)](https://www.linkedin.com/in/paulo-pqueiroz/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PauloFrey)](https://github.com/PauloFrey)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz/)](https://www.linkedin.com/in/paulo-pqueiroz/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.intagram.com/paulo_zfrey/)
 
 
