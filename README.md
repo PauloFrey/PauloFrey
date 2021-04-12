@@ -5,10 +5,12 @@
 
 
 ### About me
-I'm a Frontend developer.
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+I'm a Frontend developer. I am graduating in the Software Engineering course, I am trying to start my career as a developer, the journey has been difficult, but I remain very confident and optimistic, because I love what I do.
+My passions:
+
+- Anime and series.
+- Rap and Rock.
+- Games, mainly RPG.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
