@@ -13,7 +13,7 @@ My passions:
 - Rap and Rock.
 - Games, mainly RPG.
 
-![Paulo Queiroz GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloFrey&show_icons=true&count_private=true&include_all_commits=true)
+![Paulo Queiroz GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloFrey&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
 
