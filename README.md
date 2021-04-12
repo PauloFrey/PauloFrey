@@ -6,6 +6,7 @@
 
 ### About me
 I'm a Frontend developer. I am graduating in the Software Engineering course, I am trying to start my career as a developer, the journey has been difficult, but I remain very confident and optimistic, because I love what I do.
+
 My passions:
 
 - Anime and series.
