@@ -17,6 +17,8 @@ My passions:
 ![Paulo Queiroz GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloFrey&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFrey&hide=php&layout=compact&theme=radical">
 
+## Main repositories
 
+[![Pokedex API](https://github-readme-stats.vercel.app/api/pin/?username=PauloFrey&repo=pokedex-javascript)](https://github.com/PauloFrey/pokedex-javascript)
 
 
