@@ -20,5 +20,6 @@ My passions:
 ## Main repositories
 
 [![Pokedex API](https://github-readme-stats.vercel.app/api/pin/?username=PauloFrey&theme=radical&repo=pokedex-javascript)](https://github.com/PauloFrey/pokedex-javascript)
+[![Slideshow Javascript](https://github-readme-stats.vercel.app/api/pin/?username=PauloFrey&theme=radical&repo=slideshow-javascript)](https://github.com/PauloFrey/slideshow-javascript)
 
 
