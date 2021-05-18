@@ -13,7 +13,7 @@ I'm a Frontend developer. I am graduating in the Software Engineering course, I 
 - HTML, CSS, Javascript, Vue.
 
 #### Back end
-- C#, PostgreSQL.
+- C#, PostgreSQL e SQL Server.
 
 My passions:
 
