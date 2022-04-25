@@ -1,34 +1,26 @@
-# Hi, I'm Paulo!
+# Olá, eu sou Paulo! Desenvolvedor Fullstack e apaixonado por tecnologia!
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PauloFrey)](https://github.com/PauloFrey)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz/)](https://www.linkedin.com/in/paulo-pqueiroz/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_zfrey/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pauloqueiroz_dev/)
 
 
-### About me
-I'm a Frontend developer. I am graduating in the Software Engineering course, I am trying to start my career as a developer, the journey has been difficult, but I remain very confident and optimistic, because I love what I do.
+### Um pouquinho da minha história...
+Sempre fui apaixonado por games e isso despertou em mim o desejo de criar meus próprios jogos. Aos 15 anos iniciei minhas aulas no ensino médio técnico em informática e foi lá que tive meu primeiro contato com desenvolvimento e pude ter aulas com um professor incrível (Um grande abraço Gilberto!), que notou a minha paixão e potencializou minhas habilidades.
 
-### Languages and frameworks
-#### Front end
-- HTML, CSS, Javascript, Vue.
+### Atualmente eu...
+- 💻Trabalho como desenvolvedor Fullstack;
+- 📝Estou aprendendo e pesquisando sobre Design Patterns, TDD e Escalabilidade;
+- 📚Estou aprimorando meu Inglês;
 
-#### Back end
-- C#, PostgreSQL and SQL Server.
+### Conhecimentos e Tecnologias...
+- Node.js (+1 ano);
+- Typescript (-6 meses);
+- React.js e React Native (+6 meses);
+- Asp.net Core e Entity Framework (+6 meses);
+- HTML, CSS e Javascript (+1 ano e meio);
+- Banco de Dados: {PostgreSQL, SQL Server, MySQL} (+1 ano);
 
-My passions:
-
-- Anime and series.
-- Rap and Rock.
-- Games, mainly RPG.
-
-## My Github Stats
+## Meus Status...
 
 ![Paulo Queiroz GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloFrey&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFrey&hide=php&layout=compact&theme=radical">
-
-## Main repositories
-
-[![Pokedex API](https://github-readme-stats.vercel.app/api/pin/?username=PauloFrey&theme=radical&repo=pokedex-javascript)](https://github.com/PauloFrey/pokedex-javascript)
-[![Slideshow Javascript](https://github-readme-stats.vercel.app/api/pin/?username=PauloFrey&theme=radical&repo=slideshow-javascript)](https://github.com/PauloFrey/slideshow-javascript)
-
-
