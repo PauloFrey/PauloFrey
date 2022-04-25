@@ -11,6 +11,7 @@ Sempre fui apaixonado por games e isso despertou em mim o desejo de criar meus p
 - 💻Trabalho como desenvolvedor Fullstack;
 - 📝Estou aprendendo e pesquisando sobre Design Patterns, TDD e Escalabilidade;
 - 📚Estou aprimorando meu Inglês;
+- ✈️Sonho em morar em Portugal.
 
 ### Conhecimentos e Tecnologias...
 - Node.js (+1 ano);
