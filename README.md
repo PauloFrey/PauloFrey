@@ -23,4 +23,3 @@ Sempre fui apaixonado por games e isso despertou em mim o desejo de criar meus p
 ## Meus Status...
 
 ![Paulo Queiroz GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloFrey&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFrey&hide=php&layout=compact&theme=radical">
