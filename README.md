@@ -5,7 +5,9 @@
 
 
 ### Um pouquinho da minha história...
-Sempre fui apaixonado por games e isso despertou em mim o desejo de criar meus próprios jogos. Aos 15 anos iniciei minhas aulas no ensino médio técnico em informática e foi lá que tive meu primeiro contato com desenvolvimento e pude ter aulas com um professor incrível (Um grande abraço Gilberto!), que notou a minha paixão e potencializou minhas habilidades.
+Minha experiência mais recente na VORTIGO DIGITAL me proporcionou a oportunidade de trabalhar como Desenvolvedor Full Stack, onde fui responsável pelo desenvolvimento de integrações utilizando a plataforma híbrida de integração Digibee, Power Apps e Mambu para criar APIs . Além disso, participei ativamente do design e desenvolvimento de soluções baseadas nessas plataformas, demonstrando minha habilidade em lidar com tecnologias modernas.
+
+Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utilizei essas habilidades para contribuir efetivamente no desenvolvimento de projetos web e mobile. Minha formação acadêmica sólida na Universidade Cruzeiro do Sul complementa minhas habilidades técnicas, proporcionando uma base sólida em Engenharia de Software.
 
 ### Atualmente eu...
 - 💻Trabalho como desenvolvedor Fullstack;
@@ -14,12 +16,12 @@ Sempre fui apaixonado por games e isso despertou em mim o desejo de criar meus p
 - ✈️Sonho em morar em Portugal.
 
 ### Conhecimentos e Tecnologias...
-- Node.js (+1 ano);
-- Typescript (-6 meses);
-- React.js e React Native (+6 meses);
-- Asp.net Core e Entity Framework (+6 meses);
-- HTML, CSS e Javascript (+1 ano e meio);
-- Banco de Dados: {PostgreSQL, SQL Server, MySQL} (+1 ano);
+- Node.js (+2 ano);
+- Typescript (1 ano);
+- React.js e React Native (1 ano);
+- Asp.net Core, Entity Framework, C#(+6 meses);
+- HTML, CSS e Javascript (3 anos);
+- Banco de Dados: {PostgreSQL, SQL Server, MySQL} (3 anos);
 
 ## Meus Status...
 
